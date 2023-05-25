@@ -164,7 +164,7 @@ const AllOrders = () => {
         },
       ],
       totalPrice: 120,
-      orderStatus: "Processing",
+      status: "Processing",
     },
   ];
 
